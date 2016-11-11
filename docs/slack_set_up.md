@@ -1,15 +1,13 @@
 # Slack Set Up
 
-## Team Settings and Permissions
-
-### Settings
+## Team Settings 
 
 Enable "Require @ for mentions" so that people aren't notified every time their name is mentioned in passing. An individual member can still set up highlight words to get notifications, but don't force them to get those notifications.
 
 ![Require @ for mentions screenshot](https://github.com/siakaramalegos/slack_best_practices/blob/master/images/requireatformentions.png "Require @ for mentions")
 
 
-### Permissions
+## Team Permissions
 
 Consider using the following Messaging permissions (screenshot below).
 
