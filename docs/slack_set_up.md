@@ -4,15 +4,21 @@
 
 ### Settings
 
-Enable Require @ for mentions:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Enable "Require @ for mentions" so that people aren't notified every time their name is mentioned in passing. An individual member can still set up highlight words to get notifications, but don't force them to get those notifications.
+
+![Require @ for mentions screenshot](https://github.com/siakaramalegos/slack_best_practices/blob/master/images/requireatformentions.png "Require @ for mentions")
 
 
 ### Permissions
 
-**Messaging**
-Set this to "Always":
-"By default, team members are shown a warning before sending a message containing @channel. You can choose to disable this warning or show it less often."
+Consider using the following Messaging permissions (screenshot below).
+
+- I prefer not to completely shut down @channel and @here mentions as sometimes they are useful for members.
+- However, always give a warning to remind members to use it sparingly, and only when needed.
+- Since the #general (renamed to #announcements in the screenshot) channel is the one channel that all members must stay in, limit posts only to owners and admins.
+- Similarly, shut down @everyone mentions to only team members and admins.
+
+![Messaging permissions screenshot](https://github.com/siakaramalegos/slack_best_practices/blob/master/images/messaging.png "Messaging permissions")
 
 ## Channel Options
 
