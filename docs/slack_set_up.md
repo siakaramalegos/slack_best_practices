@@ -5,7 +5,8 @@
 ### Settings
 
 Enable Require @ for mentions:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![Require @ for mentions screenshot](https://github.com/siakaramalegos/slack_best_practices/blob/master/images/requireatformentions.png "Require @ for mentions")
 
 
 ### Permissions
